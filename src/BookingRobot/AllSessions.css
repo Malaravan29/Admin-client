@@ -1,0 +1,32 @@
+.sessions-container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  .sessions-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .sessions-table th,
+  .sessions-table td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  
+  .sessions-table th {
+    background-color: #f4f4f4;
+  }
+  
+  .sessions-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .sessions-table tr:hover {
+    background-color: #f1f1f1;
+  }
+  
